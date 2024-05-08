@@ -1,0 +1,7 @@
+portrait:
+width: -default
+height: 720px
+
+class: .img-fluids
+
+ratio: 1:1.3368

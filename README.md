@@ -1,2 +1,2 @@
-# student-portfolio
-My Student E-Portfolio for Reference
+# portfolio
+My E-Portfolio, a requirement.
